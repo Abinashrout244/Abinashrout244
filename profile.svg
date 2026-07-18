@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="680" viewBox="0 0 700 680">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 12px; }
+    .bar { stroke: #30363d; stroke-width: 1; }
+    .title { fill: #7d8590; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; text-anchor: middle; }
+    
+    .prompt-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 13px;
+      fill: #7d8590;
+    }
+    .user-text { fill: #c9d1d9; }
+    
+    .terminal-content {
+      margin: 0;
+      padding: 0;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 10px;
+      line-height: 11px;
+      color: #c9d1d9;
+      font-weight: bold;
+      background: transparent;
+      overflow: hidden;
+      opacity: 0;
+      clip-path: inset(0 0 100% 0);
+      animation: type-down 2.5s steps(60, end) forwards;
+      animation-delay: 0.2s;
+    }
+
+    .cursor {
+      fill: #c9d1d9;
+      animation: blink 1s infinite;
+    }
+
+    @keyframes type-down {
+      from { opacity: 1; clip-path: inset(0 0 100% 0); }
+      to { opacity: 1; clip-path: inset(0 0 0 0); }
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <rect width="698" height="678" x="1" y="1" class="bg" />
+  <line x1="0" y1="30" x2="700" y2="30" class="bar" />
+  
+  <circle cx="20" cy="15" r="5" fill="#ff5f56" />
+  <circle cx="36" cy="15" r="5" fill="#ffbd2e" />
+  <circle cx="52" cy="15" r="5" fill="#27c93f" />
+  <text x="350" y="19" class="title">abinash@github: ~$ ./portrait.sh</text>
+
+  <!-- Scaled foreignObject to center portrait art -->
+  <foreignObject x="20" y="45" width="660" height="580">
+    <pre class="terminal-content" xmlns="http://www.w3.org/1999/xhtml">
+                                           -====+cc+-:                          
+                                       :c##%@######s#sc-                        
+                                      -%%%%%%#s####**cc*=                       
+                                     s%%%@@%#%%%sssccscs*:                      
+                                     c@%@%%%##%%%#ssscc*csc                     
+                                    :%%@%%@%#s**+ss**---:*#*                    
+                                    +%%@scc*=:::---:     =#s                    
+                                    s@%#cscc*+=-       ::=##                    
+                                    %%#ss#s**s*+c+-++*++=+#s                    
+                                   =#%#**cc*+cc*c=*-cc+-`+c*                    
+                                   +s#+++:    :*s- --=+==:=s+                   
+                                   :ss+++:   -c=+:   : ` ` -*:                  
+                                    ****-    -*+*=    -:  :-                    
+                                     ***=   *c+=-:     :  :                     
+                                     -c+*=::*=:::        :                      
+                                 -c#ss*=+csccs*-::          +c:                 
+                                =s@@%%%@@%s#s#s+:        :-*%%c**+=             
+                         -*#%scccc%%%%%%@#sss##c+-:     :-=s%ss%#cs#s+*+        
+                       :+*c**s%#cscc%%@%%@%c**ssc*++==-::  +#%c%#c##sccc*+`     
+                       =cc**cc**cscssc#%%%@%c+=*c*+=::     :s%sc%c##ccssc*+=:   
+                      -sc***++*c*+sccsc%@#%%*+==+*=-:      *##ss###csssc**++=:  
+                      cccc**+==+**+s+css%%s%c==--+-:      +###ss%scs##ccc++===: 
+                     *%ssc***+=--+**s-scs%ss#===-==-:  `:=ss#%sc#ss##ssc*+++++- 
+                     ##sccc*++*=--+*s==#*s%ccc :: :-:::::c##%%c#s#s%#sscc**+=-==
+                    +#sc**++++++==-+s=-s#+sc*c+     `   *##%%#c#ss#%s##sc*+++++=
+                    s%#sc**+=======+s+-+@s+*c*c+        *#s#%%c%s#s##%%#sssc**+==
+                   +%#sssc*+++==+==+%+==#@c+s****:   -csss%@#c%c%##%%%#%sccc*++++*
+                  :%%##ccc**+=+====+%*+=*%%*#cs**c+-c#css#%%*##c%#%@%%%#cssc*****+=
+                  *sc****+++*+++==-c%c*+=s%c##+#++cccccs#%@sc%c#%%@@%%%###scccc*++*=
+                  ++=-:        :-=+=%%sc*-*%ss@=c%+*cccs#%@%*#%c%%%@%%%%%#ssscc******=
+                 :c*+=-:         :#%ssc=+##c@c=#%ssss#%%%sc%ss@%%%#%%%####ssssccc*++:
+                 +c++=-:          c%s##*=c%c%#=+s%%s#%%%#c%%s%@%%#s*%%%%%#sc*+=-:   :
+                 *c*+=-:          *@###s+*#s#%*+*cs##%%%ss%##@@@#s: s%#sc+-:        :
+                 cs*+=-::         +%%#%#c*ss#@s**cs#%%%ss%@#%@%##*   cc*+==--:::`   ::
+                 csc*=-::        : :#%%%s*cc#@#ccs#%%%%#%%#sc+---===+sssc*+=-::::   `:
+                 c#c*+--:        :  -#%%%scc%@%#s#%%#sc*+=--::`   -c#s##sc*+=-::`    -
+                 c#c*+=-::       :--  :=%%%#ss###s**++=-:::          +##c%%#c+=-::    -:
+                 c#c*+==-:: :-+*c*++++**++++==----::            -+*css**cc+=--::`    ::
+                 *#sc++=--::::=*c*++===-----::::::`            -+ccccc**++===---:::`   `-
+                 +#sc+==--::::-===--::::::::`              :=********+++==------:::::` :
+                 -#sc+==--:-:::----:::::::               `-++++++++++====----:::-----:  :
+                  ssc+=---::-::-----:--:::            :-+++=++========---------------:  :
+                  *sc*=::::::::-------::::`::::::::-+*cc*++++=======--====---===-==-:`  :
+                  -sc*=:    :::-----------======+*cs#####sscc**++=============++==--::: </pre>
+  </foreignObject>
+
+  <line x1="0" y1="637" x2="700" y2="637" class="bar" />
+  <text x="20" y="657" class="prompt-text">
+    abinash@github:~ $ whoami <tspan class="user-text">Avi Vashishta</tspan>
+  </text>
+  <rect x="230" y="644" width="8" height="15" class="cursor" />
+</svg>

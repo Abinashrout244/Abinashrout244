@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="680" viewBox="0 0 980 680" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 12px; }
+    .bar { stroke: #30363d; stroke-width: 1; }
+    .title { fill: #7d8590; font-size: 12px; text-anchor: middle; }
+    
+    .terminal-text {
+      font-size: 14px;
+      font-weight: bold;
+      fill: #c9d1d9;
+    }
+
+    .header-user { fill: #27c93f; }
+    .param-label { fill: #ffa657; }
+    .section-lbl { fill: #58a6ff; }
+    .dim-line { fill: #30363d; }
+    .achievement { fill: #e1e4e8; }
+
+    .terminal-text tspan {
+      opacity: 0;
+      animation: reveal-item 0.03s forwards;
+    }
+
+    .section-group {
+      opacity: 0;
+      animation: show-block 0.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+    }
+
+    .l1 { animation-delay: 0.05s; }
+    .l2 { animation-delay: 0.1s; }
+    .l3 { animation-delay: 0.15s; }
+    .l4 { animation-delay: 0.2s; }
+    .l5 { animation-delay: 0.25s; }
+    .l6 { animation-delay: 0.3s; }
+    .l7 { animation-delay: 0.35s; }
+    .l8 { animation-delay: 0.4s; }
+
+    .block-stack { animation-delay: 0.6s; }
+    .s1 { animation-delay: 0.65s; }
+    .s2 { animation-delay: 0.7s; }
+    .s3 { animation-delay: 0.75s; }
+    .s4 { animation-delay: 0.8s; }
+    .s5 { animation-delay: 0.85s; }
+    .s6 { animation-delay: 0.9s; }
+
+    .block-achieve { animation-delay: 1.1s; }
+    .a1 { animation-delay: 1.15s; }
+    .a2 { animation-delay: 1.25s; }
+    .a3 { animation-delay: 1.35s; }
+    .a4 { animation-delay: 1.45s; }
+
+    @keyframes reveal-item { to { opacity: 1; } }
+    @keyframes show-block { to { opacity: 1; } }
+  </style>
+
+  <rect width="978" height="677" x="1" y="1" class="bg" />
+  <line x1="0" y1="30" x2="980" y2="30" class="bar" />
+  
+  <circle cx="20" cy="15" r="5" fill="#ff5f56" />
+  <circle cx="36" cy="15" r="5" fill="#ffbd2e" />
+  <circle cx="52" cy="15" r="5" fill="#27c93f" />
+  <text x="490" y="19" class="title">avi@github: ~$ neofetch</text>
+
+  <!-- SECTION 1 -->
+  <text x="35" y="75" class="terminal-text" xml:space="preserve">
+    <tspan class="header-user l1">abhi@portfolio</tspan>
+    <tspan x="35" dy="16" class="dim-line l2">-------------------------------------------------------------</tspan>
+    
+    <tspan x="35" dy="26" class="param-label l3">Name</tspan><tspan x="160" class="l4">Abinash Rout (AVI)</tspan>
+    <tspan x="35" dy="22" class="param-label l5">Now</tspan><tspan x="160" class="l6">Full Stack Developer</tspan>
+    <tspan x="35" dy="22" class="param-label l7">Location</tspan><tspan x="160" class="l8">India</tspan>
+    <tspan x="35" dy="22" class="param-label l7">Status</tspan><tspan x="160" class="l8">Fresher</tspan>
+    <tspan x="35" dy="22" class="param-label l7">Edu</tspan><tspan x="160" class="l8">B.Tech CSE ('26)</tspan>
+    <tspan x="35" dy="22" class="param-label l7">Open To</tspan><tspan x="160" class="l8">Full-time / Freelance</tspan>
+    
+    <tspan x="35" dy="28" class="dim-line l8">-------------------------------------------------------------</tspan>
+  </text>
+    
+  <!-- SECTION 2 -->
+  <g class="section-group block-stack">
+    <text x="35" y="295" class="terminal-text" xml:space="preserve">
+      <tspan class="section-lbl s1">- Stack</tspan>
+      
+      <tspan x="35" dy="26" class="param-label s2">Frontend</tspan><tspan x="160" class="s3">React, Javascript, Next.js, Tailwind, TypeScript</tspan>
+      <tspan x="35" dy="22" class="param-label s4">Backend</tspan><tspan x="160" class="s5">Node.js, Express, Jwt, Socket.IO</tspan>
+      <tspan x="35" dy="22" class="param-label s4">Database</tspan><tspan x="160" class="s5">MongoDB, Oracle (Progress)</tspan>
+      <tspan x="35" dy="22" class="param-label s4">Deployment</tspan><tspan x="160" class="s5">Vercel, Render, Netlify</tspan>
+      
+      <tspan x="35" dy="28" class="dim-line s6">-------------------------------------------------------------</tspan>
+    </text>
+  </g>
+    
+  <!-- SECTION 3 -->
+  <g class="section-group block-achieve">
+    <text x="35" y="475" class="terminal-text" xml:space="preserve">
+      <tspan class="section-lbl a1">- Highlights</tspan>
+      
+      <tspan x="35" dy="26" class="achievement a2">🏆 Beginner in DSA Problems</tspan>
+      <tspan x="35" dy="24" class="achievement a3">🏆 Built 5+ Full Stack Projects</tspan>
+      <tspan x="35" dy="24" class="achievement a4">🏆 Open Source Contributor</tspan>
+    </text>
+  </g>
+  
+  <line x1="0" y1="637" x2="980" y2="637" class="bar" />
+  <text x="35" y="657" class="terminal-text" xml:space="preserve"><tspan class="header-user">avi@github</tspan>:<tspan class="section-lbl">~</tspan>$ <tspan style="fill: #c9d1d9;">clear</tspan></text>
+  <rect x="195" y="643" width="8" height="15" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
