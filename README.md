@@ -1,18 +1,95 @@
-# 💫 About Me:
-👨‍💻 Developer | Tech Enthusiast  <br>🚀 Building and learning in public  <br>💡 Interested in software, automation & new technologies  <br>📚 Always exploring and improving my skills  <br>🌍 Open to collaboration and new ideas<br><br>
+<div align="center">
 
+<code>avi@github ~ $ whoami</code>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frequency._0.001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinash-rout-274285322) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbinashRout2251) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:routabinash3775@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abinashrout244&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abinashrout244&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinashrout244&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br />
+
+<!-- Side-by-Side Balanced Proportional Panels — bordered -->
+<p align="center">
+  <img src="profile.svg" width="41%" alt="Abinash Rout ASCII Portrait" style="border-radius:12px;border:1px solid #30363d;" />
+  <img src="info.svg" width="55%" alt="Abinash Rout Developer Info" style="border-radius:12px;border:1px solid #30363d;" />
+</p>
+
+<br />
+
+<p align="center">
+  <code>avi@github ~ $ ./links.sh</code>
+</p>
+
+<h3 align="center">Fullstack Developer · Building at the Intersection of Design & Engineering · Open Source Contributor</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open_to_work-2ea043?style=for-the-badge&labelColor=161b22" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/based_in-India-0969da?style=for-the-badge&labelColor=161b22" alt="Location" />
+</p>
+
+<!-- Command Line Style Navigation Buttons -->
+<p align="center">
+  <a href="https://my-portfolio-omega-navy-76.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-333333?style=for-the-badge&labelColor=161b22" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/abinash-rout-274285322">
+    <img src="https://img.shields.io/badge/LINKEDIN-ABINASH_ROUT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
+  </a>
+  <a href="mailto:routabinash3775@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://x.com/AbinashRout2251">
+    <img src="https://img.shields.io/badge/X-@ABINASHROUT2251-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22" alt="X Twitter" />
+  </a>
+  <a href="https://instagram.com/frequency._0.001">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FREQUENCY.__0.001-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161b22" alt="Instagram" />
+  </a>
+</p>
+
+<br />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abinashrout244&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">💻 Technical Dashboard</h2>
+
+<h3 align="center">🛠️ Core Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+<h3 align="center">⚙️ Backend & Data</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+<h3 align="center">🚀 Infrastructure & Deployment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+<br />
+
+---
+
+<div align="center">
+
+<code>avi@github ~ $ echo "Thanks for stopping by — let's build something." > README.md</code>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=AbinashRout2251&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
