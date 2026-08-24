@@ -1,11 +1,4 @@
 <div align="center">
-
-<code>avi@github ~ $ whoami</code>
-
-</div>
-
-<br />
-
 <!-- Side-by-Side Balanced Proportional Panels — bordered -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
