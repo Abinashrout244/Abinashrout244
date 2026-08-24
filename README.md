@@ -1,16 +1,23 @@
 <div align="center">
 
-<!-- ASCII Profile Card (Dark/Light Responsive) -->
+<!-- ASCII Profile Card (Dark/Light Responsive, animated via animate_card.py) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Abinashrout244's GitHub Profile Card" src="dark_mode.svg" width="100%" />
 </picture>
 
+<br/>
+
+<!-- Infinite blurred glow reveal bar, sweeping left -> right -->
+<img src="premium_bar_reveal.svg" width="100%" height="24" alt="" />
+
 <br/><br/>
 
 <!-- Dynamic Infinite Animated Typing Header -->
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Abinash+Rout+(Avi)+%F0%9F%91%8B;Full+Stack+MERN+%26+Frontend+Developer+%F0%9F%9A%80;Building+Modern+%26+Scalable+Web+Applications+%E2%9A%A1;Learning+DSA+%26+Advanced+Java+%F0%9F%A7%A0;Always+Building%2C+Learning+%26+Improving+%F0%9F%94%A5" alt="Typing SVG" /> </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=550&lines=Hi%2C+I'm+Abinash+Rout+(Avi)+%F0%9F%91%8B;Full+Stack+MERN+%26+Frontend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Modern+Web+Apps+%E2%9C%A8;Welcome+to+my+GitHub+Realm!+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <em>Passionate Full-Stack Developer crafting high-performance, modern web experiences with clean architecture and liquid-smooth UI.</em>
@@ -23,11 +30,13 @@
 
 ### ⚡ About Me
 
-- 🔭 Currently scaling high-performance full-stack architectures in the **MERN Stack Ecosystem**.
-- 🎨 Focused on crafting **responsive interfaces, liquid glassmorphism, and micro-interactions**.
-- ⚙️ Deeply interested in **real-time systems, Server-Sent Events (SSE), Socket.IO, and scalable APIs**.
-- 💬 Ask me about **React, Next.js, Node.js, Express, Tailwind CSS, or MongoDB**.
-- 🎯 Always open to collaborating on high-impact full-stack and open-source projects.
+* 🔭 Currently building **scalable full-stack applications** with the **MERN Stack & JAVA**.
+* 🎨 Passionate about creating **modern, responsive UIs, smooth animations, glassmorphism, and micro-interactions**.
+* ⚙️ Exploring **Next.js, Server Components, REST APIs, real-time applications, Socket.IO, authentication, and scalable backend architecture**.
+* 🧠 Currently strengthening my **DSA, problem-solving, and system design** skills through consistent practice.
+* 💬 Ask me about **React, React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, or REST APIs**.
+* 🚀 I enjoy turning ideas into **clean, performant, and production-ready web applications**.
+* 🤝 Always open to collaborating on **interesting full-stack, open-source, and innovative web projects**.
 
 ---
 
@@ -58,8 +67,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Activity & Metrics
 
 ### 📊 GitHub Activity & Metrics
 
