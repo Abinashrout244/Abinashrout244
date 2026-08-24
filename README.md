@@ -1,88 +1,86 @@
 <div align="center">
-<!-- Side-by-Side Balanced Proportional Panels — bordered -->
+
+<!-- ASCII Profile Card (Dark/Light Responsive) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Abinashrout244's GitHub profile" src="dark_mode.svg" />
+  <img alt="Abinashrout244's GitHub Profile Card" src="dark_mode.svg" width="100%" />
 </picture>
-<br />
+
+<br/><br/>
+
+<!-- Dynamic Infinite Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=550&lines=Hi%2C+I'm+Abinash+Rout+(Avi)+%F0%9F%91%8B;Full+Stack+MERN+%26+Frontend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Modern+Web+Apps+%E2%9C%A8;Welcome+to+my+GitHub+Realm!+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <code>avi@github ~ $ ./links.sh</code>
+  <em>Passionate Full-Stack Developer crafting high-performance, modern web experiences with clean architecture and liquid-smooth UI.</em>
 </p>
 
-<h3 align="center">Fullstack Developer · Building at the Intersection of Design & Engineering · Open Source Contributor</h3>
+<!-- Infinite Looping Animated Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,24,20&height=120&section=header" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open_to_work-2ea043?style=for-the-badge&labelColor=161b22" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/based_in-India-0969da?style=for-the-badge&labelColor=161b22" alt="Location" />
-</p>
+</div>
 
-<!-- Command Line Style Navigation Buttons -->
-<p align="center">
-  <a href="https://my-portfolio-omega-navy-76.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-333333?style=for-the-badge&labelColor=161b22" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/abinash-rout-274285322">
-    <img src="https://img.shields.io/badge/LINKEDIN-ABINASH_ROUT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
-  </a>
-  <a href="mailto:routabinash3775@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://x.com/AbinashRout2251">
-    <img src="https://img.shields.io/badge/X-@ABINASHROUT2251-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22" alt="X Twitter" />
-  </a>
-  <a href="https://instagram.com/frequency._0.001">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FREQUENCY.__0.001-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161b22" alt="Instagram" />
-  </a>
-</p>
+### ⚡ About Me
 
-<br />
+- 🔭 Currently scaling high-performance full-stack architectures in the **MERN Stack Ecosystem**.
+- 🎨 Focused on crafting **responsive interfaces, liquid glassmorphism, and micro-interactions**.
+- ⚙️ Deeply interested in **real-time systems, Server-Sent Events (SSE), Socket.IO, and scalable APIs**.
+- 💬 Ask me about **React, Next.js, Node.js, Express, Tailwind CSS, or MongoDB**.
+- 🎯 Always open to collaborating on high-impact full-stack and open-source projects.
 
 ---
 
-<h2 align="center">💻 Technical Dashboard</h2>
-
-<h3 align="center">🛠️ Core Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-<h3 align="center">⚙️ Backend & Data</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
-
-<h3 align="center">🚀 Infrastructure & Deployment</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
-
-<br />
-
----
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-<code>avi@github ~ $ echo "Thanks for stopping by — let's build something." > README.md</code>
+#### Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-<br /><br />
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=AbinashRout2251&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+#### Cloud, DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abinashrout244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinash's GitHub Stats" height="175" />
+  <img src="https://streak-stats.demolab.com?user=Abinashrout244&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="175" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinashrout244&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+</div>
+
+---
+
+<!-- Looping Footer Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,3,2,1&height=100&section=footer" width="100%" />
+
+  <sub>Crafted with passion by <a href="https://github.com/Abinashrout244">Abinash Rout</a></sub>
 </div>
