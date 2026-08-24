@@ -7,11 +7,11 @@
 <br />
 
 <!-- Side-by-Side Balanced Proportional Panels — bordered -->
-<p align="center">
-  <img src="profile.svg" width="41%" alt="Abinash Rout ASCII Portrait" style="border-radius:12px;border:1px solid #30363d;" />
-  <img src="info.svg" width="55%" alt="Abinash Rout Developer Info" style="border-radius:12px;border:1px solid #30363d;" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Abinashrout244's GitHub profile" src="dark_mode.svg" />
+</picture>
 <br />
 
 <p align="center">
