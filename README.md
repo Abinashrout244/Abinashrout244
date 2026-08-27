@@ -71,14 +71,18 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abinashrout244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinash's GitHub Stats" height="175" />
-  <img src="https://streak-stats.demolab.com?user=Abinashrout244&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="175" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Abinashrout244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinash's GitHub Stats" height="175" />
+  <img src="https://streak-stats.demolab.com?user=Abinashrout244&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinashrout244&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abinashrout244&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+    width="95%"
+  />
 </div>
 
 ---
