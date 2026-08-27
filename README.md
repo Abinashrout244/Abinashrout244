@@ -79,8 +79,8 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Abinashrout244/Abinashrout244/main/github-metrics.svg"
-    alt="GitHub Contribution Graph"
+    src="https://raw.githubusercontent.com/Abinashrout244/Abinashrout244/output/activity-graph.svg"
+    alt="Abinash Rout's Contribution Graph"
     width="95%"
   />
 </div>
