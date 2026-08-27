@@ -2,9 +2,9 @@
 
 <!-- ASCII Profile Card (Dark/Light Responsive, animated via animate_card.py) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_scan.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Abinashrout244's GitHub Profile Card" src="dark_mode.svg" width="100%" />
+  <img alt="Abinashrout244's GitHub Profile Card" src="dark_mode_.svg" width="100%" />
 </picture>
 
 <br/>
