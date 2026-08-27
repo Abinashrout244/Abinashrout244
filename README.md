@@ -79,8 +79,8 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abinashrout244&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Graph"
+    src="https://raw.githubusercontent.com/Abinashrout244/Abinashrout244/main/github-metrics.svg"
+    alt="GitHub Contribution Graph"
     width="95%"
   />
 </div>
