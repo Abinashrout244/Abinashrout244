@@ -71,8 +71,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Abinashrout244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinash's GitHub Stats" height="175" />
-  <img src="https://streak-stats.demolab.com?user=Abinashrout244&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abinashrout244&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinash's GitHub Stats" height="195" />
+  <img src="https://streak-stats.vercel.app/?user=Abinashrout244&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
 
 <br/>
