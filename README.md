@@ -30,13 +30,13 @@
 
 ### ⚡ About Me
 
-* 🔭 Currently building **scalable full-stack applications** with the **MERN Stack & JAVA**.
-* 🎨 Passionate about creating **modern, responsive UIs, smooth animations, glassmorphism, and micro-interactions**.
-* ⚙️ Exploring **Next.js, Server Components, REST APIs, real-time applications, Socket.IO, authentication, and scalable backend architecture**.
-* 🧠 Currently strengthening my **DSA, problem-solving, and system design** skills through consistent practice.
-* 💬 Ask me about **React, React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, or REST APIs**.
-* 🚀 I enjoy turning ideas into **clean, performant, and production-ready web applications**.
-* 🤝 Always open to collaborating on **interesting full-stack, open-source, and innovative web projects**.
+-  Currently building **scalable full-stack applications** with the **MERN Stack & JAVA**.
+- Passionate about creating **modern, responsive UIs, smooth animations, glassmorphism, and micro-interactions**.
+- Exploring **Next.js, Server Components, REST APIs, real-time applications, Socket.IO, authentication, and scalable backend architecture**.
+- Currently strengthening my **DSA, problem-solving, and system design** skills through consistent practice.
+- Ask me about **React, React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, or REST APIs**.
+- I enjoy turning ideas into **clean, performant, and production-ready web applications**.
+- Always open to collaborating on **interesting full-stack, open-source, and innovative web projects**.
 
 ---
 
