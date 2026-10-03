@@ -16,7 +16,7 @@
 
 <!-- Dynamic Infinite Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=550&lines=Hi%2C+I'm+Abinash+Rout+(Avi)+%F0%9F%91%8B;Full+Stack+MERN+%26+Frontend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Modern+Web+Apps+%E2%9C%A8;Welcome+to+my+GitHub+Realm!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=550&lines=Hi%2C+I'm+Abinash+Rout+(Avi)+%F0%9F%91%8B; Full+Stack+MERN+%26+Frontend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Modern+Web+Apps+%E2%9C%A8;Welcome+to+my+GitHub+Realme!+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <p align="center">
