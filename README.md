@@ -15,9 +15,7 @@
 <br/><br/>
 
 <!-- Dynamic Infinite Animated Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=550&lines=Hi%2C+I'm+Abinash+Rout+(Avi)+%F0%9F%91%8B; Full+Stack+MERN+%26+Frontend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Modern+Web+Apps+%E2%9C%A8;Welcome+to+my+GitHub+Realme!+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=31ABE0&width=440&height=55&lines=I'm+Abinash+Rout+%28AVI%29;FULL+Stack+Developer;Learning+DSA%2C+PSQL+%2C+JAVA+%F0%9F%93%9A;Turning+ideas+into+real-world+projects+%F0%9F%92%BB;Always+learning.+Always+building.+%F0%9F%94%A5;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <p align="center">
   <em>Passionate Full-Stack Developer crafting high-performance, modern web experiences with clean architecture and liquid-smooth UI.</em>
