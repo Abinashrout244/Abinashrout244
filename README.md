@@ -15,12 +15,7 @@
 <br/><br/>
 
 <!-- Dynamic Infinite Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=31ABE0&width=440&height=55&lines=I'm+Abinash+Rout+%28AVI%29;FULL+Stack+Developer;Learning+DSA%2C+PSQL+%2C+JAVA+%F0%9F%93%9A;Turning+ideas+into+real-world+projects+%F0%9F%92%BB;Always+learning.+Always+building.+%F0%9F%94%A5;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" /></a>
-
-<p align="center">
-  <em>Passionate Full-Stack Developer crafting high-performance, modern web experiences with clean architecture and liquid-smooth UI.</em>
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=31ABE0&width=440&height=55&lines=FULL+Stack+Developer;Learning+DSA%2CPSQL%2CJAVA+%F0%9F%93%9A;Welcome+to+my+GitHub!+%F0%9F%91%8B;Turning+ideas+into;+real+world+projects+%F0%9F%92%BB;Always+learning.+;Always+building.+%F0%9F%94%A5" alt="Typing SVG" /></a>
 <!-- Infinite Looping Animated Wave Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,24,20&height=120&section=header" width="100%" />
 
