@@ -33,6 +33,46 @@
 
 ---
 
+<!-- 🌐 SOCIALS (premium single row, border top + bottom) -->
+<div align="center">
+
+
+
+<table width="100%">
+  <tr>
+    <td align="center" width="12.5%">
+      <a href="https://www.linkedin.com/in/abinash-rout-274285322"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    </td>
+    <td align="center" width="12.5%">
+      <a href="https://github.com/Abinashrout244"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    </td>
+    <td align="center" width="12.5%">
+      <a href="https://x.com/AbinashRout2251"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    </td>
+    <td align="center" width="12.5%">
+      <a href="mailto:abinashrout.mail@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    </td>
+    <td align="center" width="12.5%">
+      <a href="https://my-portfolio-omega-navy-76.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-31ABE0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    </td>
+    <td align="center" width="12.5%">
+      <a href="https://leetcode.com/u/Abinash_90/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    </td>
+    <td align="center" width="12.5%">
+      <a href="https://www.instagram.com/frequency._0.001"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </td>
+    <td align="center" width="12.5%">
+      <a href="https://www.hackerrank.com/profile/abhiabinash104"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+    </td>
+  </tr>
+</table>
+
+
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
