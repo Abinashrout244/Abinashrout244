@@ -53,7 +53,7 @@
       <a href="mailto:abinashrout.mail@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     </td>
     <td align="center" width="12.5%">
-      <a href="https://my-portfolio-omega-navy-76.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-31ABE0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://abinash-portfolio.pages.dev/"><img src="https://img.shields.io/badge/-Portfolio-31ABE0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     </td>
     <td align="center" width="12.5%">
       <a href="https://leetcode.com/u/Abinash_90/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
