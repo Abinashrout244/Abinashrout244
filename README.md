@@ -22,17 +22,14 @@
 
 </div>
 
-### ⚡ About Me
-
--  Currently building **scalable full-stack applications** with the **MERN Stack & JAVA**.
-- Passionate about creating **modern, responsive UIs, smooth animations, glassmorphism, and micro-interactions**.
-- Exploring **Next.js, Server Components, REST APIs, real-time applications, Socket.IO, authentication, and scalable backend architecture**.
-- Currently strengthening my **DSA, problem-solving, and system design** skills through consistent practice.
-- Ask me about **React, React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, or REST APIs**.
-- I enjoy turning ideas into **clean, performant, and production-ready web applications**.
-- Always open to collaborating on **interesting full-stack, open-source, and innovative web projects**.
-
----
+<!-- About Me (animated cards, dark / light) -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="about_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="about_light.svg" />
+  <img alt="About Abinash Rout" src="about_dark.svg" width="100%" />
+</picture>
+</div>
 
 <!-- 🌐 SOCIALS (premium single row, border top + bottom) -->
 <div align="center">
