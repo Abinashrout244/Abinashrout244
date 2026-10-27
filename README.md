@@ -13,11 +13,12 @@
 <img src="premium_bar_reveal.svg" width="100%" height="24" alt="" />
 
 <br/><br/>
-
-<!-- Dynamic Infinite Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=31ABE0&width=440&height=55&lines=FULL+Stack+Developer;Learning+DSA%2CPSQL%2CJAVA+%F0%9F%93%9A;Welcome+to+my+GitHub!+%F0%9F%91%8B;Turning+ideas+into;+real+world+projects+%F0%9F%92%BB;Always+learning.+;Always+building.+%F0%9F%94%A5" alt="Typing SVG" /></a>
-<!-- Infinite Looping Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,24,20&height=120&section=header" width="100%" />
+<!-- Animated header (dark / light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="header_light.svg" />
+  <img alt="Abinash Rout — Full Stack Developer" src="header_dark.svg" width="100%" />
+</picture>
 
 </div>
 
